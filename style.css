@@ -32,3 +32,10 @@ button {
 button:focus {
   outline: none;
 }
+
+button .circle {
+  position: absolute;
+  background-color: #fff;
+  width: 100px;
+  height: 100px;    
+}
