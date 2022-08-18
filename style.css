@@ -24,3 +24,9 @@ body {
 .container {
   text-align: center;
 }
+
+.progress-container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
