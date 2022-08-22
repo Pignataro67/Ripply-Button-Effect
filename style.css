@@ -71,3 +71,6 @@ circle {
   transition: 0.4s ease;
 }
 
+.circle.active {
+  border-color: var(--line-border-fill);
+}
